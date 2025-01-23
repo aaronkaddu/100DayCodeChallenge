@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf0be346-3bdb-4d2b-9836-cd699f6097cd" name="Changes" comment="" />
+    <list default="true" id="bf0be346-3bdb-4d2b-9836-cd699f6097cd" name="Changes" comment="InititalCommit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/aaronkaddu/100DayCodeChallenge.git",
+    "accountId": "7cc7f4a9-9cad-4840-89fe-d35a6c64e4ca"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -19,6 +31,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -39,8 +56,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737612138042</updated>
-      <workItem from="1737612139144" duration="11000" />
+      <workItem from="1737612139144" duration="650000" />
     </task>
+    <task id="LOCAL-00001" summary="InititalCommit">
+      <option name="closed" value="true" />
+      <created>1737612328972</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737612328972</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="InititalCommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="InititalCommit" />
   </component>
 </project>
