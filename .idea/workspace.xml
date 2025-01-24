@@ -45,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.DataTypes.executor": "Run",
     "Python.DebuggingPractice.executor": "Run",
     "Python.HelloWorld.executor": "Run",
     "Python.InputFunction.executor": "Run",
@@ -79,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737612138042</updated>
-      <workItem from="1737612139144" duration="13333000" />
+      <workItem from="1737612139144" duration="13793000" />
     </task>
     <task id="LOCAL-00001" summary="InititalCommit">
       <option name="closed" value="true" />
@@ -121,6 +122,7 @@
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$DebuggingPractice.coverage" NAME="DebuggingPractice Coverage Results" MODIFIED="1737615643914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 1" />
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$StringManipulation.coverage" NAME="StringManipulation Coverage Results" MODIFIED="1737614691751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 1" />
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$HelloWorld.coverage" NAME="HelloWorld Coverage Results" MODIFIED="1737614548679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 1" />
+    <SUITE FILE_PATH="coverage/100DayCodeChallenge$DataTypes.coverage" NAME="DataTypes Coverage Results" MODIFIED="1737707006993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 2" />
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$JuiceMilk.coverage" NAME="JuiceMilk Coverage Results" MODIFIED="1737630513961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 1" />
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$testing.coverage" NAME="testing Coverage Results" MODIFIED="1737631292245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 1" />
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$InputFunction.coverage" NAME="InputFunction Coverage Results" MODIFIED="1737616140361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 1" />

@@ -10,3 +10,6 @@ print(124_346_567)
 # Float
 print(3.4566 + 45.677)
 
+# Boolean
+print(True)
+print(False)
