@@ -4,15 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf0be346-3bdb-4d2b-9836-cd699f6097cd" name="Changes" comment="InititalCommit" />
+    <list default="true" id="bf0be346-3bdb-4d2b-9836-cd699f6097cd" name="Changes" comment="InititalCommit">
+      <change afterPath="$PROJECT_DIR$/DAY 1/DebuggingPractice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY 1/HelloWorld.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY 1/InputFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY 1/JuiceMilk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY 1/PrintingPractice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY 1/StringManipulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY 1/Variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY 1/bandGenerator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY 1/testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "aaronkaddu"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/aaronkaddu/100DayCodeChallenge.git",
@@ -23,13 +47,23 @@
   "associatedIndex": 6
 }]]></component>
   <component name="ProjectId" id="2s19IuDh38wyuXufeXET6z1iL9b" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.DebuggingPractice.executor": "Run",
+    "Python.HelloWorld.executor": "Run",
+    "Python.InputFunction.executor": "Run",
+    "Python.JuiceMilk.executor": "Run",
+    "Python.StringManipulation.executor": "Run",
+    "Python.Variables.executor": "Run",
+    "Python.bandGenerator.executor": "Run",
+    "Python.testing.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -56,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737612138042</updated>
-      <workItem from="1737612139144" duration="650000" />
+      <workItem from="1737612139144" duration="12900000" />
     </task>
     <task id="LOCAL-00001" summary="InititalCommit">
       <option name="closed" value="true" />
@@ -66,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737612328972</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="InititalCommit">
+      <option name="closed" value="true" />
+      <created>1737613142667</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737613142668</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,5 +117,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="InititalCommit" />
     <option name="LAST_COMMIT_MESSAGE" value="InititalCommit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/100DayCodeChallenge$Variables.coverage" NAME="Variables Coverage Results" MODIFIED="1737617608162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 1" />
+    <SUITE FILE_PATH="coverage/100DayCodeChallenge$DebuggingPractice.coverage" NAME="DebuggingPractice Coverage Results" MODIFIED="1737615643914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 1" />
+    <SUITE FILE_PATH="coverage/100DayCodeChallenge$StringManipulation.coverage" NAME="StringManipulation Coverage Results" MODIFIED="1737614691751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 1" />
+    <SUITE FILE_PATH="coverage/100DayCodeChallenge$HelloWorld.coverage" NAME="HelloWorld Coverage Results" MODIFIED="1737614548679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 1" />
+    <SUITE FILE_PATH="coverage/100DayCodeChallenge$JuiceMilk.coverage" NAME="JuiceMilk Coverage Results" MODIFIED="1737630513961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 1" />
+    <SUITE FILE_PATH="coverage/100DayCodeChallenge$testing.coverage" NAME="testing Coverage Results" MODIFIED="1737631292245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 1" />
+    <SUITE FILE_PATH="coverage/100DayCodeChallenge$InputFunction.coverage" NAME="InputFunction Coverage Results" MODIFIED="1737616140361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 1" />
+    <SUITE FILE_PATH="coverage/100DayCodeChallenge$bandGenerator.coverage" NAME="bandGenerator Coverage Results" MODIFIED="1737631701534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 1" />
   </component>
 </project>
