@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf0be346-3bdb-4d2b-9836-cd699f6097cd" name="Changes" comment="More Code Added">
-      <change afterPath="$PROJECT_DIR$/DAY 5/Loops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY 5/Loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY 5/Loops.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +85,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\amuzira1.UDBL\PycharmProjects\100DayCodeChallenge" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -105,7 +110,7 @@
       <workItem from="1737835837178" duration="14127000" />
       <workItem from="1738060580563" duration="9153000" />
       <workItem from="1738178495867" duration="2840000" />
-      <workItem from="1738235542852" duration="2558000" />
+      <workItem from="1738235542852" duration="3299000" />
     </task>
     <task id="LOCAL-00001" summary="InititalCommit">
       <option name="closed" value="true" />
@@ -148,6 +153,7 @@
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$WhoPayBill.coverage" NAME="WhoPayBill Coverage Results" MODIFIED="1738068958317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 4" />
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$BMICalc.coverage" NAME="BMICalc Coverage Results" MODIFIED="1737713238122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 2" />
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$randomNumbers.coverage" NAME="randomNumbers Coverage Results" MODIFIED="1738064430209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 4" />
+    <SUITE FILE_PATH="coverage/100DayCodeChallenge$Loops.coverage" NAME="Loops Coverage Results" MODIFIED="1738297304282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 5" />
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$StringManipulation.coverage" NAME="StringManipulation Coverage Results" MODIFIED="1737614691751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 1" />
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$TipCalculator.coverage" NAME="TipCalculator Coverage Results" MODIFIED="1737718574116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 2" />
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$DataTypes.coverage" NAME="DataTypes Coverage Results" MODIFIED="1737711959582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 2" />
