@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf0be346-3bdb-4d2b-9836-cd699f6097cd" name="Changes" comment="More Code Added">
+      <change afterPath="$PROJECT_DIR$/DAY 5/PyPasswordGenerator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY 5/FizzBuzzGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY 5/FizzBuzzGame.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DAY 5/Loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY 5/Loops.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +54,7 @@
     "Python.ConditionalState.executor": "Run",
     "Python.DataTypes.executor": "Run",
     "Python.DebuggingPractice.executor": "Run",
+    "Python.FizzBuzzGame.executor": "Run",
     "Python.HeadsTails.executor": "Run",
     "Python.HelloWorld.executor": "Run",
     "Python.InputFunction.executor": "Run",
@@ -63,6 +66,7 @@
     "Python.NestedIFs.executor": "Run",
     "Python.NewBMICalc.executor": "Run",
     "Python.PizzaOrder.executor": "Run",
+    "Python.PyPasswordGenerator.executor": "Run",
     "Python.RockGame.executor": "Run",
     "Python.StringManipulation.executor": "Run",
     "Python.TipCalculator.executor": "Run",
@@ -110,7 +114,7 @@
       <workItem from="1737835837178" duration="14127000" />
       <workItem from="1738060580563" duration="9153000" />
       <workItem from="1738178495867" duration="2840000" />
-      <workItem from="1738235542852" duration="3299000" />
+      <workItem from="1738235542852" duration="9584000" />
     </task>
     <task id="LOCAL-00001" summary="InititalCommit">
       <option name="closed" value="true" />
@@ -153,7 +157,7 @@
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$WhoPayBill.coverage" NAME="WhoPayBill Coverage Results" MODIFIED="1738068958317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 4" />
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$BMICalc.coverage" NAME="BMICalc Coverage Results" MODIFIED="1737713238122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 2" />
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$randomNumbers.coverage" NAME="randomNumbers Coverage Results" MODIFIED="1738064430209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 4" />
-    <SUITE FILE_PATH="coverage/100DayCodeChallenge$Loops.coverage" NAME="Loops Coverage Results" MODIFIED="1738297304282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 5" />
+    <SUITE FILE_PATH="coverage/100DayCodeChallenge$Loops.coverage" NAME="Loops Coverage Results" MODIFIED="1738300870746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 5" />
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$StringManipulation.coverage" NAME="StringManipulation Coverage Results" MODIFIED="1737614691751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 1" />
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$TipCalculator.coverage" NAME="TipCalculator Coverage Results" MODIFIED="1737718574116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 2" />
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$DataTypes.coverage" NAME="DataTypes Coverage Results" MODIFIED="1737711959582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 2" />
@@ -161,6 +165,7 @@
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$ModuloPractice.coverage" NAME="ModuloPractice Coverage Results" MODIFIED="1737971282598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 3" />
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$DebuggingPractice.coverage" NAME="DebuggingPractice Coverage Results" MODIFIED="1737615643914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 1" />
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$TreasureHunt.coverage" NAME="TreasureHunt Coverage Results" MODIFIED="1737984854115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 3" />
+    <SUITE FILE_PATH="coverage/100DayCodeChallenge$PyPasswordGenerator.coverage" NAME="PyPasswordGenerator Coverage Results" MODIFIED="1738307735467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 5" />
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$HelloWorld.coverage" NAME="HelloWorld Coverage Results" MODIFIED="1737614548679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 1" />
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$practiceLists.coverage" NAME="practiceLists Coverage Results" MODIFIED="1738178620778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 4" />
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$RockGame.coverage" NAME="RockGame Coverage Results" MODIFIED="1738071220344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 4" />
@@ -171,6 +176,7 @@
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$HeadsTails.coverage" NAME="HeadsTails Coverage Results" MODIFIED="1738064781984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 4" />
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$MultipleIFs.coverage" NAME="MultipleIFs Coverage Results" MODIFIED="1737977348950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 3" />
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$PizzaOrder.coverage" NAME="PizzaOrder Coverage Results" MODIFIED="1737978867699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 3" />
+    <SUITE FILE_PATH="coverage/100DayCodeChallenge$FizzBuzzGame.coverage" NAME="FizzBuzzGame Coverage Results" MODIFIED="1738301651970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 5" />
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$ConditionalState.coverage" NAME="ConditionalState Coverage Results" MODIFIED="1737836139354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 3" />
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$testing.coverage" NAME="testing Coverage Results" MODIFIED="1737631292245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 1" />
     <SUITE FILE_PATH="coverage/100DayCodeChallenge$dirtyDozen.coverage" NAME="dirtyDozen Coverage Results" MODIFIED="1738069606767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY 4" />

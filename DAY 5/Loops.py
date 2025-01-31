@@ -15,3 +15,10 @@ for score in student_score:
         max_score = score
 
 print(max_score)
+
+# Loops with range
+sum = 0
+
+for number in range(1, 101):
+    sum += number
+print(sum)
