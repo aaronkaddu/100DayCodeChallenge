@@ -41,7 +41,7 @@ print(password_list)
 random.shuffle(password_list)
 print(password_list)
 
-password = ""
+password = " "
 for char in password_list:
   password += char
 
