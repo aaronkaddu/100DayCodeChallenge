@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf0be346-3bdb-4d2b-9836-cd699f6097cd" name="Changes" comment="More Code Added">
+      <change afterPath="$PROJECT_DIR$/DAY 6/gameBegoori.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY 6/whileLoops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY 5/PyPasswordGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY 5/PyPasswordGenerator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRACTICE/Prac1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PRACTICE/Prac1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +116,7 @@
       <workItem from="1738178495867" duration="2840000" />
       <workItem from="1738235542852" duration="18115000" />
       <workItem from="1739190123093" duration="1579000" />
-      <workItem from="1739266362237" duration="667000" />
+      <workItem from="1739266362237" duration="8663000" />
     </task>
     <task id="LOCAL-00001" summary="InititalCommit">
       <option name="closed" value="true" />
